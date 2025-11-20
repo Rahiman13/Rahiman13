@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Node Js, Express Js, Mongodb**
 
-- 👨‍💻 I have successfully completed [**Ifeelincolor**]([https://ifeelincolor.projexino.com/])
+- 👨‍💻 I have successfully completed [**Ifeelincolor**](https://ifeelincolor.projexino.com/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node js, MongoDB, Express, AWS**
 
 - 📫 How to reach me **rahimanshaik13@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Rahiman13/Resume.git](https://github.com/Rahiman13/Resume.git)
+- 📄 Know about my experiences [**Resume**](https://github.com/Rahiman13/Resume.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
