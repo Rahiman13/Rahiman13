@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahiman13&theme=darkhub" alt="rahiman13" /></a> </p>
 
-- 🔭 I’m currently working on [Projexino Company Website](https://projexino.vercel.app/)
+- 🔭 I’m currently working on [Signavox Technologies]([https://signavoxtechnologies.com/])
 
 - 🌱 I’m currently learning **Node Js, Express Js, Mongodb**
 
-- 👨‍💻 I have successfully completed [Super School](https://super-school.vercel.app/)
+- 👨‍💻 I have successfully completed [Ifeelincolor]([https://ifeelincolor.projexino.com/])
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node js, MongoDB, Express, AWS**
 
 - 📫 How to reach me **rahimanshaik13@gmail.com**
 
