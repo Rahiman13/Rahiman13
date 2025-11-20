@@ -5,11 +5,11 @@
 
 <img src="https://drive.google.com/file/d/1k-s-GfSn71IM58BlE8VUhwalhKuvTnDE/view" alt="rahiman13" />
 
-- 🔭 I’m currently working on [Signavox Technologies]([https://signavoxtechnologies.com/])
+- 🔭 I’m currently working on [**Signavox Technologies**](https://signavoxtechnologies.com/)
 
 - 🌱 I’m currently learning **Node Js, Express Js, Mongodb**
 
-- 👨‍💻 I have successfully completed [Ifeelincolor]([https://ifeelincolor.projexino.com/])
+- 👨‍💻 I have successfully completed [**Ifeelincolor**]([https://ifeelincolor.projexino.com/])
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node js, MongoDB, Express, AWS**
 
