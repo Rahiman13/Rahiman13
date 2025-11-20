@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahiman13&label=Profile%20views&color=0e75b6&style=flat" alt="rahiman13" /> </p>
 
-<img src="https://drive.google.com/file/d/1k-s-GfSn71IM58BlE8VUhwalhKuvTnDE/view?usp=sharing" alt="rahiman13" />
+<img src="https://drive.google.com/file/d/1k-s-GfSn71IM58BlE8VUhwalhKuvTnDE/view" alt="rahiman13" />
 
 - 🔭 I’m currently working on [Signavox Technologies]([https://signavoxtechnologies.com/])
 
