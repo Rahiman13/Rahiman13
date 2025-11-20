@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rahimanshaik13@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://github.com/Rahiman13/Resume.git)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1Dj7Xo_mP6MHgayN6W_xQ9jVpfP4uOPKU/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
